@@ -2,7 +2,7 @@
 
 ## Whois:
 
-#### 🏢 full-stack developer
+#### 🏢 full-stack developer @ accenture.com
 #### 💓 open technologies make our world better
 #### 📧 e-mail: 18340819196@163.com
 
